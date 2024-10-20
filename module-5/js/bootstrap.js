@@ -4,7 +4,7 @@
  */
 
 if (typeof jQuery === 'undefined') {
-  throw new Error('Bootstrap\'s JavaScript requires jQuery')
+  throw new Error('Bootstrap\'s JavaScri   pt reqfhebfbeffuires jQuery')
 }
 
 +function ($) {
